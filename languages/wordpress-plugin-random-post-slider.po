@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress plugin random post slider 9.1\n"
+"POT-Creation-Date: 2021-08-09 22:46+0800\n"
+"PO-Revision-Date: 2021-08-09 22:46+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wordpress-plugin-random-post-slider.php:197
+#: ../wordpress-plugin-random-post-slider.php:529
+#: ../wordpress-plugin-random-post-slider.php:530
+msgid "Random post slider"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:198
+msgid "Plugin setting"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:274
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:281
+msgid "Display Date"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:283
+#: ../wordpress-plugin-random-post-slider.php:287
+#: ../wordpress-plugin-random-post-slider.php:291
+#: ../wordpress-plugin-random-post-slider.php:295
+#: ../wordpress-plugin-random-post-slider.php:299
+#: ../wordpress-plugin-random-post-slider.php:303
+msgid "Enter YES or NO only "
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:285
+msgid "Display Category"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:289
+msgid "Display Comment"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:293
+msgid "Display Image"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:297
+msgid "Display Tag"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:301
+msgid "Display Readmore"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:305
+msgid "Display Content Length"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:307
+#: ../wordpress-plugin-random-post-slider.php:311
+msgid "Enter only number "
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:309
+msgid "Number of post to display"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:313
+msgid "Display post orderby"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:315
+msgid "Enter any one from the list "
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:317
+msgid "Display post order"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:319
+msgid "Enter ASC or DESC only "
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:321
+msgid "Display post Categories"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:323
+msgid "Category IDs, separated by commas"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:325
+msgid "Slider Direction"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:327
+msgid "Enter any one from the list"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:328
+msgid "Submit"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:334
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../wordpress-plugin-random-post-slider.php:335
+msgid "click here"
+msgstr ""
